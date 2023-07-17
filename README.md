@@ -1,5 +1,9 @@
 # pubmed searches for mutltisensory research
 
+Used the following queries on [pubmed](https://pubmed.ncbi.nlm.nih.gov/) to get the results for the timeline.
+
+Pubmed allows you to download the results as a csv file.
+
 ## non vision query
 
 ```
